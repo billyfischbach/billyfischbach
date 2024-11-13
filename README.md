@@ -24,11 +24,11 @@ Here are a few projects I've worked on:
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=billyfischbach&show_icons=true&theme=radical)
 
-<!-- ## 🏆 Achievements
+ ## 🏆 Achievements
 
 - [Achievement 1]
 - [Achievement 2] -->
